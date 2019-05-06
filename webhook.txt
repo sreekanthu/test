@@ -1,0 +1,29 @@
+Create jenkins job:
+
+
+1) jenkins job -> general->githubproject (repourl)
+
+2) source code  - clone url
+
+    click -> repository browser -> githubweb
+
+     give -> git hubrepositotu URL
+
+3) build trigger  
+
+    select -> github hook trigger for Gitscm polling
+    
+  save project
+
+4)   go to github repo -> settings -> webhooks
+   
+      click -> addwebhook
+ 
+         give ->payload url  
+
+           (to find payload url   goto- managejenkins -configuresystem - github - here click on ?   copy url from -by default)
+
+       make every thing as it ease
+
+       click - addwebhook
+     

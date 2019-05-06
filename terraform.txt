@@ -1,0 +1,57 @@
+
+
+1) worker node launch configuration   - 
+
+2) Node schedulures = schedulers
+
+
+
+
+
+classic load balancer:
+
+       
+--->>   insta
+
+  netstal -nltp  (port up /not)
+
+   instance security grotp
+
+   load nbalance sercurity group
+
+   load balancer listener port
+
+
+----------------
+
+   how to craete bootstrap:
+
+     
+          
+
+
+federation login:  
+
+
+       -  s3 bucket eppudu privat ga unchali ??  no option we can ach     lambda - function  ACL true 
+
+     - CI/CD 
+
+    -  CIDR range 
+
+  
+ NACL: 
+
+ EKS(KUBARNETES) - ECS (conntainer)   - ecr ()
+
+
+
+1) 3 building blocks whhile write teraform scrpt
+
+   - proivder   - aws  - region ,accesskey,secretkey
+
+   -resource - cloud resources
+
+   - Output
+
+           

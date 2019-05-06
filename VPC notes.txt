@@ -1,0 +1,44 @@
+VPC:
+-----
+
+1) Create VPC
+
+
+CIDR formula :  2^ (32-26) = 2 6 = 64   
+
+ Create 4 subnets
+
+   2 Publicsunets
+
+   2 private subnets
+
+   Public1 :  10.0.0.0/28
+
+   Public2 : 10.0.0.16/28
+
+   private :  10.0.0.32/28
+
+   private2 :  10.0.0.48/28
+
+
+
+3)  create internetgateway   & Associate to VPC
+
+
+4) Route tables
+
+    need 2 route tables
+
+    edit route table   -> associate subnets   ->> edit route
+
+
+
+
+chmod 400 Linux-AWS.pem
+ssh -i "Linux-AWS.pem" ec2-user@10.0.0.60 	
+
+
+
+
+10.0.0.20
+       

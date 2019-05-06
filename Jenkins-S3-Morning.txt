@@ -1,0 +1,18 @@
+1)Connect jenkins serveer
+
+2) install plugin -> S3 publisher
+
+ 
+3) Need to generate access key in aws -> got user -> my security credentials -> create access key
+  -> download csv fie
+
+4) give access key & secret key in jenkins
+
+   got to jenkins -> manage jenkins -> configure system -> amazon S3 profile -> add both keys
+
+5) create job:
+      
+
+          1) bucket namename:
+          2) war file location
+          3) region codess       
